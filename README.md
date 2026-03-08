@@ -6,7 +6,7 @@ I'm a software engineer at [Atlassian](https://www.atlassian.com/) in Sydney, Au
 My detailed work history can be found on my [resume](https://vwong.dev/attachments/resume.pdf).
 
 Outside of work, I have worked on projects in a variety of languages including:
-- Rust: [CubeSimRS](https://github.com/vwcwong/CubeSimRS), [ToyWebRS](https://github.com/vwcwong/toywebrs), [RA Evaluator](https://github.com/vwcwong/ra-evaluator), and [AI ChatOPs](https://github.com/VWongDev/ai-chatops).
+- Rust: [CubeSimRS](https://github.com/vwcwong/CubeSimRS), [ToyWebRS](https://github.com/vwcwong/toywebrs), [RA Evaluator](https://github.com/vwcwong/ra-evaluator), and [AI ChatOPs Bot](https://github.com/VWongDev/ai-chatops).
 - JavaScript/TypeScript: [Huffman Visualiser](https://vwong.dev/Huffman-Encoding/), [LinkUp Events](https://linkupevents.com/), and [Canto Toolbox](https://github.com/VWongDev/canto-toolbox).
 - Python: [CubeSimPy](https://github.com/vwcwong/CubeSim) and [LZ78 Encoder](https://github.com/vwcwong/MATH3411/blob/master/LZ78.py).
 
