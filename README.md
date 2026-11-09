@@ -1,10 +1,11 @@
 # Hi There, I'm Vincent!
 
-I'm a software engineer based in Sydney, currently at [Atlassian](https://www.atlassian.com/).
+I'm a software engineer based in Sydney, currently at [VivCourt Trading](https://vivcourt.com/).
 
 ## Experience
 
-- Software Engineer at [Atlassian](https://www.atlassian.com/) (January 2023 - Present).
+- Software Engineer at [VivCourt Trading](http://vivcourt.com/) (August 2026 - Present).
+- Software Engineer at [Atlassian](https://www.atlassian.com/) (January 2023 - July 2026).
 - Software Engineer Intern at [IMC Trading](https://www.imc.com/ap/) (December 2021 - February 2022).
 - Software Developer at [Ventia](https://www.ventia.com/) (September 2019 - November 2021).
 
