@@ -14,7 +14,7 @@ My detailed work and education history can be found on my [resume](https://vwong
 
 I like to build things in a variety of languages:
 
-- **Rust:** [CubeSimRS](https://github.com/vwcwong/CubeSimRS), [ToyWebRS](https://github.com/vwcwong/toywebrs), [RA Evaluator](https://github.com/vwcwong/ra-evaluator), [AI ChatOPs Bot](https://github.com/VWongDev/ai-chatops).
+- **Rust:** [CubeSimRS](https://github.com/vwcwong/CubeSimRS), [ToyWebRS](https://github.com/vwcwong/toywebrs), [RA Evaluator](https://github.com/vwongdev/obsidian-mcp), [Obsidian MCP](https://github.com/VWongDev/ai-chatops).
 - **TypeScript:** [Huffman Visualiser](https://vwong.dev/Huffman-Encoding/), [Canto Toolbox](https://github.com/VWongDev/canto-toolbox).
 - **Python:** [CubeSimPy](https://github.com/vwcwong/CubeSim), [LZ78 Encoder](https://github.com/vwcwong/MATH3411/blob/master/LZ78.py).
 
